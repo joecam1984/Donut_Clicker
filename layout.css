@@ -1,0 +1,28 @@
+body{  
+    background-image:url('./background.jpg');
+    background-position: center;
+    background-size: cover;
+    font-family:cursive;
+
+}
+.header{
+   
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    justify-content: left;
+    
+    
+}
+.autoClicker{
+    display: flex;
+    flex-direction: column;
+    margin-right: 250px;
+}
+
